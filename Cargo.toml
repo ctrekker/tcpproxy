@@ -5,7 +5,5 @@ authors = ["Connor Burns <ctrekker4@gmail.com>"]
 edition = "2018"
 description = "A simple TCP proxy with extra logging and connection event utilities"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
 clap = "~2.33.3"
